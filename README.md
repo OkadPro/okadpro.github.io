@@ -1,12 +1,13 @@
 # Nasser Al-Okad — Executive Portfolio
 
-Static responsive portfolio website.
+Responsive static portfolio website hosted with GitHub Pages.
 
-## GitHub Pages
-This repository is named `https-okadpro.github.io`, so its project-site address will be:
+## Website
 
-https://okadpro.github.io/https-okadpro.github.io/
+https://okadpro.github.io/
 
-To publish: open Settings → Pages → Build and deployment → Deploy from a branch → select `main` and `/(root)` → Save.
+## GitHub Pages configuration
 
-For the shorter root URL https://okadpro.github.io/, the repository must be named exactly `OkadPro.github.io`.
+Repository: `OkadPro/okadpro.github.io`
+
+The repository should publish from the `main` branch and the `/ (root)` folder. Configure this under **Settings → Pages → Build and deployment**.
